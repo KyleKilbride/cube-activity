@@ -2,9 +2,12 @@
 
 ## note from Kyle
 
+Thanks so much for sending me this activity, I enjoyed it. I opted not to leave comments in hopes the code is legible on it's own.
+
 1. added a `npm start` command that will run the code with the examples given in the readme.
-2. the repo 'https://github.com/cube-planning/technical-assignment-js.git' does not exist as far as I can tell
-3. I have pushed this to my repo: 
+2. the repo 'https://github.com/cube-planning/technical-assignment-js.git' does not exist as far as I can tell, or it is private
+and I don't have the permissions. 
+3. I have pushed this to my repo: https://github.com/KyleKilbride/cube-activity
 
 ## Getting Started
 
